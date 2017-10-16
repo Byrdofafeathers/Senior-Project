@@ -1,2 +1,1 @@
-# Senior-Project
-Repository for Senior Project 
+# Project Repo for Senior-Project 
