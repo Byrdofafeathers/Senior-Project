@@ -17,9 +17,9 @@ NCCS_Collector = Collector(url=nccs_url, header=nccs_header)
 
 def main():
 
-	NCVPS_Collector.get_discussion(10105, 602154, output_file_name='Calculus Data Mining/test.json')
+	NCVPS_Collector.get_discussion(10105, 602154, output_file_name='Calculus Discussions/test.json')
 
-	with open('Calculus Data Mining/discussion1.json') as discussion1: 
+	with open('Calculus Discussions/discussion1.json') as discussion1: 
 		discussion1 = json.load(discussion1)
 	
 	participant_dict = {} 
