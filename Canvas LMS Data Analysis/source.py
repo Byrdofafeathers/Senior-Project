@@ -1,4 +1,3 @@
-# http://ceur-ws.org/Vol-1925/paper11.pdf
 import requests 
 import json
 from data_collection import Collector

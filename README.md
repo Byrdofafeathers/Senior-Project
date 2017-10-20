@@ -1,33 +1,27 @@
-# Senior-Project 
+<h1 align='center'>Product</h1>
 
-* Purpose: 
-	* Develop a machine learning solution and apply it to a local school 
-___
-
-# Canvas LMS Data Analysis: 
-
-* Purpose: 
-	* Build a general model from nccs and ncvps test data 
-
-* Technology Used: 
-	* Canvas LMS API 
-	* External Python Module Requests: https://pypi.python.org/pypi/requests
-	* Extneral Python Module Natrual Language Toolkit: http://www.nltk.org
-	* Built-in Python Module json: https://docs.python.org/2/library/json.html (2.x) & https://docs.python.org/3/library/json.html (3.x)
-
-* Papers Used: 
-	* A Data Collection Experience with Canvas LMS as a Learning Platform: http://ceur-ws.org/Vol-1925/paper11.pdf 
-
-* Restrictions: 
-	* API tokens and files containing user data are hidden and must be supplemented with outside material. 
-___
-
-# Discovery Survey Purification
-* Purpose
-	* Fix survey data and draw trends
-
-* Technology Used:
-	* Pandas: http://pandas.pydata.org
+This project is meant to be a general machine learning solution, able to be applied to the LMS 'Canvas.' It's focus is to collect and analyze student data and to give teachers better feedback in a way that every teacher is able to use it.
 
 ___
+
+<h1 align='center'>Installation</h1>
+
+##### Prerequisites
+```
+Python - 3.5.x 
+Sklearn 
+Numpy 
+NLTK
+Requests
+```
+
+___
+
+<h1 align='center'>Related Works</h1>
+
+* Using Canvas LMS Data: http://ceur-ws.org/Vol-1925/paper11.pdf
+
+
+___
+
 
